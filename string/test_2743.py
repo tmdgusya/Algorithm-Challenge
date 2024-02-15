@@ -1,4 +1,2 @@
 # receive strings from input
-n = input()
-
-print(len(n))
+print(len(input()))
